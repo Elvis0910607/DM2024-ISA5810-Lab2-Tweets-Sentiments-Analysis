@@ -6,4 +6,5 @@ You have to clean the data by doing some pre-processing first. Then, apply featu
 -tweets_DM.json - Raw data from Twitter
 -emotion.csv - Lists the emotion labels per tweet_id
 -data_identification.csv - A file that identifies membership of training or testing set per tweet_id. Note that you won´t be provided with the labels for the testing set, but you will have to predict these when you make your submission.
+
 Download the data by : kaggle competitions download -c dm-2024-isa-5810-lab-2-homework
